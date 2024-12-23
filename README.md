@@ -1,4 +1,4 @@
-# Spotify Clone - Full MERN Stack Application
+# Spotify - Full MERN Stack Music Streaming Application
 
 ## Overview
 
